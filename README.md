@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @immabridget
-- 👀 I’m interested in Artificial intellegence
+- 👀 I’m interested in Artificial intellegence and machine learning
 - 🌱 I’m currently learning transfer learning
 - 💞️ I’m looking to collaborate on machine learning tasks
 - 📫 reach me through immabridg@gmail.com
